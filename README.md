@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GuigoAmadio?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorar-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/guillermo-silva-amadio-9b55a1304"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:guillermoguigo840@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Falar-ef4444?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,git,c,cpp&perline=20" />
 </p>
 
 <p align="center">
@@ -20,13 +18,7 @@
 - ⚙️ Stack atual: **Next.js / React / TS**, backend (ex.: **NestJS/Go**), bancos **PostgreSQL/Redis**
 - 🎯 Foco: construir produtos reais, escaláveis e bem observáveis
 
----
-## 🧰 Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,git,c,cpp&perline=20" />
-</p>
-
-## 📈 Meu “shape” no GitHub (dinâmico)
+## 📈 Minha atividade no GitHub
 <p align="center">
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GuigoAmadio&hide_border=true&v=10" />
 </p>
