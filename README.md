@@ -21,6 +21,10 @@
 - 🎯 Foco: construir produtos reais, escaláveis e bem observáveis
 
 ---
+## 🧰 Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,git,c,cpp&perline=20" />
+</p>
 
 ## 📈 Meu “shape” no GitHub (dinâmico)
 <p align="center">
@@ -38,15 +42,4 @@
 
 ---
 
-## 🧰 Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,git,c,cpp&perline=7" />
-</p>
-
-
-## 🐍 “Snake” das contribuições (bem aesthetic)
-> Isso aqui precisa de um GitHub Action (tem o passo a passo logo abaixo).
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GuigoAmadio/GuigoAmadio/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
