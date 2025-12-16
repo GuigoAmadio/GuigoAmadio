@@ -1,6 +1,6 @@
 <!-- ===== HERO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:8b5cf6,100:22c55e&text=SEU%20NOME%20AQUI&fontAlign=50&fontAlignY=35&fontSize=42&desc=Construindo%20coisas%20do%20zero%20—%20frontend%20%2B%20backend%20%2B%20infra&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0ea5e9,50:8b5cf6,100:22c55e&text=Guillermo%20Silva%20Amadio&fontAlign=50&fontAlignY=35&fontSize=42&desc=Construindo%20coisas%20do%20zero%20—%20frontend%20%2B%20backend%20%2B%20infra&descAlign=50&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=22c55e" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=GuigoAmadio&style=flat-square&color=22c55e" alt="views" />
 </p>
 
 ---
@@ -45,11 +45,11 @@
 > Troque pelos seus repositórios principais (o segredo é “poucos e fortes”).
 
 - **🛒 E-commerce Platform** — microservices, gateway, auth, payments  
-  👉 https://github.com/SEU_USUARIO/SEU_REPO_1  
+  👉 https://github.com/GuigoAmadio/bemmecare  
 - **🧩 SaaS / Multi-tenant Backend** — modular, escalável, com Docker + Postgres  
-  👉 https://github.com/SEU_USUARIO/SEU_REPO_2  
+  👉 https://github.com/GuigoAmadio/backMoneyMaker 
 - **⚡ Algo/Low-level Lab** — C / Assembly / otimizações e experimentos  
-  👉 https://github.com/SEU_USUARIO/SEU_REPO_3  
+  👉 https://github.com/GuigoAmadio/Batalha Naval Assembly  
 
 
 ## 🐍 “Snake” das contribuições (bem aesthetic)
