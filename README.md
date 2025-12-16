@@ -36,20 +36,8 @@
 
 ## 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,go,postgres,redis,docker,git,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,redis,docker,git,c,cpp&perline=7" />
 </p>
-
----
-
-## 🚀 Projetos em destaque
-> Troque pelos seus repositórios principais (o segredo é “poucos e fortes”).
-
-- **🛒 E-commerce Platform** — microservices, gateway, auth, payments  
-  👉 https://github.com/GuigoAmadio/bemmecare  
-- **🧩 SaaS / Multi-tenant Backend** — modular, escalável, com Docker + Postgres  
-  👉 https://github.com/GuigoAmadio/backMoneyMaker 
-- **⚡ Algo/Low-level Lab** — C / Assembly / otimizações e experimentos  
-  👉 https://github.com/GuigoAmadio/Batalha Naval Assembly  
 
 
 ## 🐍 “Snake” das contribuições (bem aesthetic)
