@@ -28,7 +28,8 @@
 
 ## 📈 Meu “shape” no GitHub (dinâmico)
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=GuigoAmadio&hide_border=true&v=5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuigoAmadio&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&cache_seconds=21600&v=5" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=GuigoAmadio&hide_border=true&v=5" />
 </p>
 
 
