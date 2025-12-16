@@ -20,7 +20,7 @@
 
 ## 📈 Minha atividade no GitHub
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com/?user=GuigoAmadio&hide_border=true&v=123" />
+<img height="170" src="https://streak-stats.demolab.com/?user=GuigoAmadio&hide_border=true&v=3" />
 </p>
 
 <p align="center">
