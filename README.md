@@ -24,12 +24,16 @@
 
 ## 📈 Meu “shape” no GitHub (dinâmico)
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=GuigoAmadio&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GuigoAmadio&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuigoAmadio&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=GuigoAmadio&hide_border=true&cache_seconds=21600" />
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigoAmadio&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuigoAmadio/GuigoAmadio/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
