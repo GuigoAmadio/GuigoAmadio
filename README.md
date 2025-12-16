@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorar-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:SEU_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Falar-ef4444?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/GuigoAmadio?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explorar-111827?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/guillermo-silva-amadio-9b55a1304"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:guillermoguigo840@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Falar-ef4444?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 ## 📈 Meu “shape” no GitHub (dinâmico)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuigoAmadio&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GuigoAmadio&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigoAmadio&layout=compact&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -51,23 +51,10 @@
 - **⚡ Algo/Low-level Lab** — C / Assembly / otimizações e experimentos  
   👉 https://github.com/SEU_USUARIO/SEU_REPO_3  
 
----
-
-## 🏆 Conquistas (opcional, mas fica bonito)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&no-frame=true&column=6" />
-</p>
-
----
 
 ## 🐍 “Snake” das contribuições (bem aesthetic)
 > Isso aqui precisa de um GitHub Action (tem o passo a passo logo abaixo).
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/GuigoAmadio/GuigoAmadio/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
----
-
-## 🤝 Vamos conversar?
-- LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN  
-- Email: SEU_EMAIL
